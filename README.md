@@ -1,9 +1,9 @@
-Surf’s Up Analysis
+# Surf’s Up Analysis
 
-Overview
+## Overview
 I was tasked to continue my analysis of whether a surf and ice cream shop is sustainable year round in Oahu.  Specifically the months of June and December, since they are opposite times of the year and they have different temperature variations.
 
-Results
+## Results
 
 For the month of June, I was able to write a query that filtered the Measurement table in order to retrieve temps for the month of June.  
 
@@ -27,7 +27,7 @@ I completed the same analysis for the month of December, using the same syntax, 
 ![Screen Shot 2022-04-28 at 4 02 30 PM](https://user-images.githubusercontent.com/93801125/165851462-4f381ac4-8740-4de3-aa64-2130a831150d.png)
 
 
-Summary
+## Summary
 
 Using the summary statistics, and comparing the two, the max temp in both is 85 degrees and 83 degrees respectively, and the average being  about 75 and 71 degrees respectively.  
 
